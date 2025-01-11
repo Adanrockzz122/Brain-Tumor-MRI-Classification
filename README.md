@@ -68,12 +68,12 @@ This well-structured dataset was used to train a convolutional neural network (C
 ### 1. **Before Prediction**
 In the initial state, the webpage displays a form prompting the user to upload an MRI image. The drag-and-drop area is highlighted to encourage an intuitive user experience.
 
-![Before Prediction State](Screenshot%202025-01-11%20165646.png)
+![Screenshot 2025-01-11 165646](https://github.com/user-attachments/assets/00765fc7-5d42-48bc-8766-58c6f6ddcf3a)
 
 ### 2. **After Prediction**
 Once the user uploads an MRI image and clicks the **Predict** button, the application processes the image, classifies it using the trained model, and displays the prediction result along with the uploaded image.
 
-![After Prediction State](Screenshot%202025-01-11%20165706.png)
+![Screenshot 2025-01-11 165706](https://github.com/user-attachments/assets/436612ce-3f6b-439e-8198-4f06ddce4373)
 
 ---
 
